@@ -4,7 +4,7 @@ This React App works with Symbl's APIs to make a telephony call over PSTN.
 
 ## Configurations
 
-To make this app work with Symbl's API we need to set the config.js with Symbl APP Id and APP Secret.
+To make this app work with Symbl's API we need to set the config.js inside src folder with Symbl APP Id and APP Secret.
 
 ### Credentials
 
